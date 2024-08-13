@@ -1,0 +1,2 @@
+# AI-Based-approach-for-prioritization-of-genetic-mutations
+This repository contains an AI-driven framework designed to prioritize genetic mutations based on their potential impact on disease phenotypes. Utilizing machine learning models and bioinformatics data, this tool helps researchers identify key mutations for further study, streamlining the discovery of clinically relevant genetic variants.
